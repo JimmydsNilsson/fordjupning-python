@@ -3,11 +3,22 @@
 Detta projekt innehåller lösningen för Kunskapskontroll 1 i kursen Fördjupning i Python.
 
 ## Innehåll
-- `src/` – Python‑moduler för dataladdning, databas, loggning och huvudprogram.
+- `src/` – Python-moduler för dataladdning, databas, loggning och huvudprogram.
 - `data/` – Indatafiler och databasen.
 - `tests/` – Enkla tester för att verifiera funktionalitet.
 - `app.log` – Loggfil som genereras vid körning.
-- `data.db` – SQLite‑databas som används av programmet.
+- `data.db` – SQLite-databas som används av programmet.
+
+## Syfte
+Projektet tränar på:
+- filhantering i Python  
+- arbete med SQLite  
+- loggning  
+- modulär projektstruktur  
+- enkel testning  
+
+## Krav
+- Python 3.10 eller senare
 
 ## Körning
 Starta programmet genom att köra:
