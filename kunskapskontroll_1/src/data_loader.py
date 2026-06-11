@@ -1,5 +1,5 @@
 import pandas as pd
-from logger import setup_logger
+from kunskapskontroll_1.src.logger import setup_logger
 
 # Skapar logger för denna modul
 logger = setup_logger()

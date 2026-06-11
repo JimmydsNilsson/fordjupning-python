@@ -1,7 +1,7 @@
 import os
-from data_loader import load_csv
-from database import init_db, insert_data
-from logger import setup_logger
+from kunskapskontroll_1.src.data_loader import load_csv
+from kunskapskontroll_1.src.database import init_db, insert_data
+from kunskapskontroll_1.src.logger import setup_logger
 from datetime import datetime
 
 # Skapar logger för huvudprogrammet
