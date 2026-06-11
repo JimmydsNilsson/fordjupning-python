@@ -1,0 +1,25 @@
+Kunskapskontroll 2 – Fördjupning i Python
+Detta projekt är en del av kursen Fördjupning i Python och innehåller kod, data och rapport för kunskapskontroll 2.
+
+Projektstruktur
+kunskapskontroll_2/
+│
+├── src/                 – Python‑skript och funktioner
+├── data/                – Dataset som används i uppgiften
+├── reports/             – Diagram, figurer och genererade filer
+├── main.py              – Huvudfil för att köra projektet
+└── rapport.pdf          – Skriftlig rapport
+
+Körning
+Starta projektet genom att köra:
+
+python main.py
+
+Innehåll
+Databearbetning och analys
+
+Funktioner och modulstruktur
+
+Visualiseringar
+
+Rapport med slutsatser
